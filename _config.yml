@@ -3,14 +3,14 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "My Blog"
+name:               "Kiko Plus"
 
 author:
   facebook:         your-id
   youtubeUser:      your-id
   youtubeChannel:   your-id
   twitter:          your-id
-  github:           Passionzq
+  github:           your-id
   stackoverflow:    your-id
   quora:            your-id
   linkedin:         your-id
@@ -20,7 +20,7 @@ author:
   reddit:           your-id
   medium:           your-id
   tumblr:           your-id
-  email:            546035409@qq.com
+  email:            your-id@your-email.com
 
 copyright:
   year:             2017
@@ -35,13 +35,13 @@ disqus:
   id:               "kiko-plus"
 
 # URL
-url:                "https://passionzq.github.io/" # the base hostname & protocol for your site
+url:                "https://github.com/Passionzq" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "/Kiko-plus" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Beijing
+timezone:           Asia/Seoul
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
@@ -62,7 +62,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/Passionzq"
+    url:            "https://github.com/AWEEKJ/Kiko-plus"
 
 # Sass
 sass:
