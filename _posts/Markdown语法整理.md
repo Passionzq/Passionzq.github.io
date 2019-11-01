@@ -16,7 +16,7 @@
 
 
 ## -1. 注意事项
-- 以下内容均可在VS Code（1.39.2）正常运行，但不保证在其他阅读器上能够运行（如“锚点”）。
+- 以下内容均可在VS Code（1.39.2）正常运行，但不保证在其他阅读器上能够运行（如github上“锚点”功能失效，无法链接到本页相应内容）。
 - 如果您在阅读中有发现任何错误，欢迎将问题发送到我的邮箱（<546035409@qq.com>），我会及时处理并修改，谢谢！
 - 可以转载，但请保留[源出处](https://github.com/Passionzq)，谢谢！
 
@@ -307,23 +307,23 @@
 |R|r , s , splus|
 |GO|go , golang|
 |AppleScript|applescript|
-|ActionScript 3.0|	actionscript3 , as3|
-|ColdFusion	|coldfusion , cf|
-|Delphi	|delphi , pascal , pas|
-|diff&patch	|diff patch|
-|Erlang	|erl , erlang|
-|Groovy	|groovy|
-|JavaFX	|jfx , javafx|
-|Perl	|perl , pl , Perl|
-|Ruby	|ruby , rails , ror , rb|
-|SASS&SCSS|	sass , scss|
-|Scala	|scala|
-|SQL	|sql|
-|Visual Basic|	vb , vbnet|
-|Objective C|	objc , obj-c|
-|F#	|f# f-sharp , fsharp|
-|matlab	|matlab|
-|swift	|swift|
+|ActionScript 3.0|actionscript3 , as3|
+|ColdFusion|coldfusion , cf|
+|Delphi|delphi , pascal , pas|
+|diff&patch|diff patch|
+|Erlang|erl , erlang|
+|Groovy|groovy|
+|JavaFX|jfx , javafx|
+|Perl|perl , pl , Perl|
+|Ruby|ruby , rails , ror , rb|
+|SASS&SCSS|sass , scss|
+|Scala|scala|
+|SQL|sql|
+|Visual Basic|vb , vbnet|
+|Objective C|objc , obj-c|
+|F#|f# f-sharp , fsharp|
+|matlab|matlab|
+|swift|swift|
 
 ### 效果：
 - 行内式：
